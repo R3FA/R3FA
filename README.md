@@ -1,7 +1,7 @@
 ![MasterHead](https://teammeta.eu/wp-content/uploads/2020/07/developer.jpg)]
 <h1 align="center">Hi 👋, I'm Faris</h1>
 <h3 align="center">A newbie learning full stack development</h3>
-img align="right" alt="Coding" width="350" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611ea1c9646abd1c77c566023c7ec172edcabe1f0dd&rid=giphy.gif&ct=g"
+<img align="right" alt="Coding" width="350" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611ea1c9646abd1c77c566023c7ec172edcabe1f0dd&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r3fa&label=Profile%20views&color=0e75b6&style=flat" alt="r3fa" /> </p>
 
