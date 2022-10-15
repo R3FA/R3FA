@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Angular, GIMP (graphics editor), Blender (3D computer graphics software)**
 
-- 💬 Ask me about **C++, C#**
+- 💬 Ask me about: **C++, C#**
 
 - 📫 How to reach me: **skopakfaris@hotmail.com**
 
