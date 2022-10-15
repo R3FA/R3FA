@@ -10,7 +10,7 @@
 
 - 💬 Ask me about: **C++, C#**
 
-- 📫 How to reach me: **skopakfaris@hotmail.com**
+- 📫 How to reach me: [E-mail](skopakfaris@hotmail.com)
 
 - 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/faris-skopak-21ab96227/)
 
