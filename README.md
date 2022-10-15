@@ -14,7 +14,6 @@
 
 - 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/faris-skopak-21ab96227/)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
