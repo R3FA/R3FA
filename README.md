@@ -14,6 +14,11 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/faris-skopak-21ab96227/](https://www.linkedin.com/in/faris-skopak-21ab96227/)
 
+[[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/USERNAME"
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
