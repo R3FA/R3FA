@@ -1,4 +1,4 @@
-![MasterHead]([https://teammeta.eu/wp-content/uploads/2020/07/developer.jpg](https://blog.eduonix.com/wp-content/uploads/2018/09/Full-Stack-Developer.jpg))
+![MasterHead]([https://blog.eduonix.com/wp-content/uploads/2018/09/Full-Stack-Developer.jpg](https://blog.eduonix.com/wp-content/uploads/2018/09/Full-Stack-Developer.jpg))
 <h1 align="center">Hi 👋, I'm Faris</h1>
 <h3 align="center">A newbie learning full stack development</h3>
 <img align="right" alt="Coding" width="350" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611ea1c9646abd1c77c566023c7ec172edcabe1f0dd&rid=giphy.gif&ct=g">
